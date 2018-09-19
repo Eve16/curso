@@ -1,2 +1,6 @@
 Nuevo archivo llamado conflicto para el curso de LaTex y Git.
+<<<<<<< HEAD
 Una diferencia con la copia remota.
+=======
+Una diferencia con la copia local. 
+>>>>>>> 48b77e3435d403ff764b242fdcc5961589a7119e
